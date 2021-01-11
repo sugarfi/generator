@@ -9,6 +9,7 @@ Below:
 Four, 4:
 - eu
 - ko
+- eunado
 After:
 - boea
 Berry:
@@ -22,11 +23,13 @@ Person, human:
 - ea
 - kodo
 - bona
+- eo
 Three, 3:
 - eoeo
 - eu
 Happy:
 - kodakovyko
+- vana
 Shades of blue, blue:
 - do
 Seven, 7:
@@ -63,8 +66,10 @@ Shades of red, red:
 - eu
 Five, 5:
 - ku
+- vu
 Tool, device:
 - eo
+- bo
 Shades of green, green:
 - vaeo
 Black, dark colored:
@@ -76,7 +81,9 @@ Error, mistake:
 - eaka
 You, the listener:
 - do
-Eat, consume: []
+- do
+Eat, consume:
+- ea
 Me, the speaker: []
 Not, the opposite of: []
 To harm, to hurt:
@@ -97,11 +104,14 @@ Exactly, precisely:
 And:
 - ka
 - ""
+- ka
 Good, positive: []
 Time:
 - eana
+- eana
 Speak, day, talk:
 - bo
+- da
 Letter: []
 Flying animal: []
 Cold, cool: []
@@ -111,6 +121,7 @@ Try, attempt:
 - bo
 Water: []
 Because of:
+- ba
 - ba
 Arm:
 - vu
@@ -132,6 +143,47 @@ Verb, predicate, action word:
 - vaey
 Warm, hot:
 - vu
+- nu
 White, lightly colored:
 - vava
 Small: []
+Want to, desire to:
+- vona
+Near:
+- noka
+Number:
+- nana
+Surprise: []
+Book:
+- boby
+Year:
+- naeo
+Very:
+- vu
+Foot:
+- bany
+- vodo
+Place, location, position:
+- vo
+Hand: []
+Month: []
+Disorganized: []
+Move, transport, travel, go:
+- eava
+Walking / quadruped animal: []
+Organized:
+- ""
+- eananaka
+Second:
+- dy
+Plant: []
+Word: []
+Big:
+- ""
+Anger: []
+Far: []
+Leg: []
+But, however: []
+Head: []
+Group: []
+Day: []
