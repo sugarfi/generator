@@ -6,7 +6,15 @@ defs = File.open("defs.yml") do |file|
     YAML.parse(file)["defs"].as_a
 end
 
-saved = {} of String => Array(String)
+saved = File.open("gen.yml") do |file|
+    kv = YAML.parse(file)
+    out = {} of String => Array(String)
+    kv.as_h.keys.each do |key|
+        out[key.as_s] = kv[key].as_a.map(&.as_s)
+    end
+
+    out
+end
 
 get "/" do |env|
     send_file env, "public/index.html"
