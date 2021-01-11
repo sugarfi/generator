@@ -5,6 +5,7 @@ Zero, 0: []
 Below:
 - eu
 - doda
+- eu
 Four, 4:
 - eu
 - ko
@@ -12,6 +13,8 @@ After:
 - boea
 Berry:
 - baeo
+- ea
+- ea
 One, 1:
 - ea
 - va
@@ -22,7 +25,8 @@ Person, human:
 Three, 3:
 - eoeo
 - eu
-Happy: []
+Happy:
+- kodakovyko
 Shades of blue, blue:
 - do
 Seven, 7:
@@ -33,7 +37,8 @@ Tree fruit:
 - eobaeuky
 Vegetable:
 - kyvy
-Before: []
+Before:
+- vo
 Six, 6:
 - eu
 - eu
@@ -51,6 +56,7 @@ Eight, 8:
 - ba
 "False":
 - navo
+- vavoko
 Two, 2:
 - du
 Shades of red, red:
@@ -73,7 +79,8 @@ You, the listener:
 Eat, consume: []
 Me, the speaker: []
 Not, the opposite of: []
-To harm, to hurt: []
+To harm, to hurt:
+- vuey
 Joking, humorous:
 - daeo
 - eoky
@@ -81,14 +88,50 @@ With, together with:
 - ""
 Write:
 - byea
+- dy
 Almost, approximately:
+- kyeoeu
 - kyeoeu
 Exactly, precisely:
 - eodoeo
 And:
 - ka
+- ""
 Good, positive: []
 Time:
 - eana
 Speak, day, talk:
 - bo
+Letter: []
+Flying animal: []
+Cold, cool: []
+Minute:
+- ny
+Try, attempt:
+- bo
+Water: []
+Because of:
+- ba
+Arm:
+- vu
+Incredulous, disbeliving: []
+Adjective, descriptive word: []
+Sad, downcast:
+- eoduey
+Have to, must:
+- nueoea
+- duva
+Weather:
+- vaeoeo
+To, targeting: []
+Swimming animal: []
+Noun, object word: []
+Able to, can, capable of, possible:
+- ka
+Verb, predicate, action word:
+- vaey
+Warm, hot:
+- vu
+White, lightly colored:
+- vava
+Small: []
