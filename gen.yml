@@ -2,8 +2,11 @@
 "True":
 - boda
 Zero, 0: []
-Below: []
-Four, 4: []
+Below:
+- eu
+Four, 4:
+- eu
+- ko
 After:
 - boea
 Berry:
@@ -12,6 +15,36 @@ One, 1: []
 Person, human:
 - ea
 - kodo
+- bona
 Three, 3: []
 Happy: []
 Shades of blue, blue: []
+Seven, 7:
+- ky
+Fruit from a vine:
+- vynaeuky
+Tree fruit:
+- eobaeuky
+Vegetable:
+- kyvy
+Before: []
+Six, 6:
+- eu
+- eu
+At the same time as, during, while:
+- na
+Nine, 9: []
+This: []
+Above: []
+Eight, 8:
+- ba
+"False":
+- navo
+Two, 2:
+- du
+Shades of red, red:
+- eu
+Five, 5: []
+Tool, device:
+- eo
+Shades of green, green: []
