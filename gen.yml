@@ -4,6 +4,7 @@
 Zero, 0: []
 Below:
 - eu
+- doda
 Four, 4:
 - eu
 - ko
@@ -11,14 +12,19 @@ After:
 - boea
 Berry:
 - baeo
-One, 1: []
+One, 1:
+- ea
+- va
 Person, human:
 - ea
 - kodo
 - bona
-Three, 3: []
+Three, 3:
+- eoeo
+- eu
 Happy: []
-Shades of blue, blue: []
+Shades of blue, blue:
+- do
 Seven, 7:
 - ky
 Fruit from a vine:
@@ -31,11 +37,16 @@ Before: []
 Six, 6:
 - eu
 - eu
+- ea
 At the same time as, during, while:
 - na
-Nine, 9: []
-This: []
-Above: []
+Nine, 9:
+- dodavydo
+This:
+- ea
+- ny
+Above:
+- eavy
 Eight, 8:
 - ba
 "False":
@@ -44,7 +55,40 @@ Two, 2:
 - du
 Shades of red, red:
 - eu
-Five, 5: []
+Five, 5:
+- ku
 Tool, device:
 - eo
-Shades of green, green: []
+Shades of green, green:
+- vaeo
+Black, dark colored:
+- bavo
+Bad, negative:
+- eo
+- koeo
+Error, mistake:
+- eaka
+You, the listener:
+- do
+Eat, consume: []
+Me, the speaker: []
+Not, the opposite of: []
+To harm, to hurt: []
+Joking, humorous:
+- daeo
+- eoky
+With, together with:
+- ""
+Write:
+- byea
+Almost, approximately:
+- kyeoeu
+Exactly, precisely:
+- eodoeo
+And:
+- ka
+Good, positive: []
+Time:
+- eana
+Speak, day, talk:
+- bo
