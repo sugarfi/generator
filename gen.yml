@@ -1,4 +1,17 @@
 ---
-Bad, negative: []
-"False": []
-"True": []
+"True":
+- boda
+Zero, 0: []
+Below: []
+Four, 4: []
+After:
+- boea
+Berry:
+- baeo
+One, 1: []
+Person, human:
+- ea
+- kodo
+Three, 3: []
+Happy: []
+Shades of blue, blue: []
