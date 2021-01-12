@@ -39,3 +39,9 @@ submit.onclick = () => {
         def_btn.onclick(); // fight me
     });
 };
+
+words.addEventListener("keydown", (e) => {
+    if (e.key == "Enter") {
+        submit.onclick(); // fight me again :)
+    }
+});
