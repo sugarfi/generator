@@ -1,6 +1,7 @@
 ---
 "True":
 - boda
+- kony
 Zero, 0: []
 Below:
 - eu
@@ -12,10 +13,12 @@ Four, 4:
 - eunado
 After:
 - boea
+- bodo
 Berry:
 - baeo
 - ea
 - ea
+- kony
 One, 1:
 - ea
 - va
@@ -24,24 +27,36 @@ Person, human:
 - kodo
 - bona
 - eo
+- eodoeu
 Three, 3:
 - eoeo
 - eu
+- "no"
 Happy:
 - kodakovyko
 - vana
+- kodo
+- vavy
 Shades of blue, blue:
 - do
+- boda
+- bodo
+- dodo
 Seven, 7:
 - ky
+- eyeo
 Fruit from a vine:
 - vynaeuky
+- ""
 Tree fruit:
 - eobaeuky
+- vododoeaeodo
 Vegetable:
 - kyvy
+- baka
 Before:
 - vo
+- doea
 Six, 6:
 - eu
 - eu
@@ -50,47 +65,75 @@ At the same time as, during, while:
 - na
 Nine, 9:
 - dodavydo
+- nueo
+- nueo
 This:
 - ea
 - ny
+- ny
+- eoea
 Above:
 - eavy
+- eo
+- ""
 Eight, 8:
 - ba
+- baeoea
+- dodo
 "False":
 - navo
 - vavoko
+- dokodo
+- vavo
+- vavo
 Two, 2:
 - du
+- "no"
+- do
 Shades of red, red:
 - eu
+- eaeo
+- davo
 Five, 5:
 - ku
 - vu
+- kyno
 Tool, device:
 - eo
 - bo
 Shades of green, green:
 - vaeo
+- kony
+- dodo
 Black, dark colored:
 - bavo
+- bokoeo
 Bad, negative:
 - eo
 - koeo
 Error, mistake:
 - eaka
+- "no"
 You, the listener:
 - do
 - do
+- kony
+- na
+- eodoea
 Eat, consume:
 - ea
-Me, the speaker: []
-Not, the opposite of: []
+- eo
+Me, the speaker:
+- bo
+Not, the opposite of:
+- eododaeo
 To harm, to hurt:
 - vuey
 Joking, humorous:
 - daeo
 - eoky
+- kony
+- koda
 With, together with:
 - ""
 Write:
@@ -99,91 +142,347 @@ Write:
 Almost, approximately:
 - kyeoeu
 - kyeoeu
+- kavady
 Exactly, precisely:
 - eodoeo
 And:
 - ka
 - ""
 - ka
-Good, positive: []
+- ea
+- ""
+- ""
+Good, positive:
+- "no"
 Time:
 - eana
 - eana
+- do
 Speak, day, talk:
 - bo
 - da
-Letter: []
-Flying animal: []
-Cold, cool: []
+Letter:
+- kododoea
+Flying animal:
+- kony
+- eo
+- ea
+- ea
+- dododovovano
+Cold, cool:
+- vodo
 Minute:
 - ny
+- nybova
+- nynueo
 Try, attempt:
 - bo
-Water: []
+- nuna
+- daeo
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- eododo
+Water:
+- eo
+- doda
 Because of:
 - ba
 - ba
+- boeo
 Arm:
 - vu
+- bany
+- ea
+- nano
+- kabodaeo
+- bodo
 Incredulous, disbeliving: []
-Adjective, descriptive word: []
+Adjective, descriptive word:
+- doeaeyvo
 Sad, downcast:
 - eoduey
+- eodoea
 Have to, must:
 - nueoea
 - duva
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- eanaeoda
 Weather:
 - vaeoeo
-To, targeting: []
-Swimming animal: []
-Noun, object word: []
+- "no"
+To, targeting:
+- ""
+- dodo
+Swimming animal:
+- dododonadano
+Noun, object word:
+- euboeanodo
 Able to, can, capable of, possible:
 - ka
+- na
+- bunovaba
+- kababo
+- kababo
+- boeybo
 Verb, predicate, action word:
 - vaey
 Warm, hot:
 - vu
 - nu
+- vaeo
+- kony
+- kony
 White, lightly colored:
 - vava
-Small: []
+- kony
+Small:
+- "no"
+- dodo
+- bakueo
+- bakueo
 Want to, desire to:
 - vona
+- kueoeo
+- daea
 Near:
 - noka
+- kony
+- dododododo
+- kaeo
 Number:
 - nana
-Surprise: []
+Surprise:
+- kony
+- eodo
 Book:
 - boby
 Year:
 - naeo
+- eo
+- eaeo
+- eo
+- baeuvo
 Very:
 - vu
+- ea
+- kony
 Foot:
 - bany
 - vodo
+- va
+- by
 Place, location, position:
 - vo
-Hand: []
-Month: []
-Disorganized: []
+- voko
+- bokaey
+- kony
+- vuka
+Hand:
+- nano
+Month:
+- nono
+- na
+Disorganized:
+- kony
 Move, transport, travel, go:
 - eava
-Walking / quadruped animal: []
+- na
+- bo
+Walking / quadruped animal:
+- "no"
+- "no"
 Organized:
 - ""
 - eananaka
+- kony
+- naeovy
 Second:
 - dy
-Plant: []
-Word: []
+Plant:
+- "no"
+- "no"
+- eododo
+- bodoea
+Word:
+- voeo
+- kony
+- eo
+- "no"
+- bavabo
 Big:
 - ""
+- vaeo
+- kaeodoeudo
+- doeodo
 Anger: []
-Far: []
+Far:
+- eo
+- ""
+- vaeo
 Leg: []
 But, however: []
-Head: []
-Group: []
-Day: []
+Head:
+- "no"
+- "no"
+- eonoda
+Group:
+- ku
+- kodo
+- kodo
+Day:
+- "no"
+- eako
+Empty, barren:
+- eo
+- ""
+- doeo
+- vaky
+Old:
+- na
+- na
+- eaea
+- doeu
+Posessive (like 'my' or 'yours'):
+- ""
+- "no"
+- naka
+- duno
+- vadododano
+- ny
+Make noise:
+- eona
+- dado
+- dado
+- ""
+- dakaeodydo
+Masculine pronoun:
+- nyvoeodo
+Tree:
+- na
+- bokodano
+- dobo
+Breath, inhale, exhale:
+- do
+- kony
+- kony
+- eunoeo
+- eaeododo
+Metal: []
+To the right of: []
+Animal:
+- koeodoeo
+- koeaeuea
+- koeaeuea
+- koeaeuea
+- koeaeuea
+Root:
+- "no"
+- dododo
+Feminine pronoun:
+- eo
+- "no"
+- eova
+Sound, noise: []
+Feminine or feminine-aligned:
+- nava
+- kony
+- "no"
+To hate:
+- nava
+- kony
+- "no"
+- doeu
+Hour:
+- eudoeu
+- doea
+Like, similar to:
+- kaea
+- kono
+Inside:
+- doeaeydo
+- eudoeu
+Non-binary: []
+Every:
+- doea
+- do
+- kada
+Know, understand:
+- kony
+- do
+Hear, listen to:
+- kony
+Look at, see:
+- kony
+- va
+Generic pronoun (ie., neutral):
+- kony
+- "no"
+- badobodo
+Sentence:
+- "no"
+New:
+- "no"
+- eudoeudo
+Name, title:
+- nonoea
+Liquid:
+- vody
+Busy:
+- "no"
+- bano
+- dododo
+Rock:
+- boeodu
+Read:
+- bonodu
+Air, gas:
+- bododo
+- dyea
+Many:
+- nukodo
+To love:
+- dodo
+- dodo
+Fruit:
+- vodo
+To do, as in 'I will do it':
+- daka
+Masculine or masculine-aligned:
+- naeododo
+Outside:
+- dodaea
+Often, frequently:
+- voeodanodoeoea
