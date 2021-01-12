@@ -36,6 +36,6 @@ submit.onclick = () => {
     .then(r => r.text())
     .then(text => {
         words.value = "";
-        def.textContent = "Submitted!";
+        def_btn.onclick(); // fight me
     });
 };
