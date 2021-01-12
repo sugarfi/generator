@@ -22,6 +22,7 @@ Berry:
 One, 1:
 - ea
 - va
+- do
 Person, human:
 - ea
 - kodo
@@ -32,6 +33,7 @@ Three, 3:
 - eoeo
 - eu
 - "no"
+- eoeo
 Happy:
 - kodakovyko
 - vana
@@ -76,6 +78,7 @@ Above:
 - eavy
 - eo
 - ""
+- doeoeo
 Eight, 8:
 - ba
 - baeoea
@@ -94,6 +97,7 @@ Shades of red, red:
 - eu
 - eaeo
 - davo
+- eoeo
 Five, 5:
 - ku
 - vu
@@ -108,12 +112,14 @@ Shades of green, green:
 Black, dark colored:
 - bavo
 - bokoeo
+- nako
 Bad, negative:
 - eo
 - koeo
 Error, mistake:
 - eaka
 - "no"
+- eodyvokakydo
 You, the listener:
 - do
 - do
@@ -123,6 +129,7 @@ You, the listener:
 Eat, consume:
 - ea
 - eo
+- kona
 Me, the speaker:
 - bo
 Not, the opposite of:
@@ -134,17 +141,21 @@ Joking, humorous:
 - eoky
 - kony
 - koda
+- kodoeoeo
 With, together with:
 - ""
+- eunodoko
 Write:
 - byea
 - dy
+- eokododo
 Almost, approximately:
 - kyeoeu
 - kyeoeu
 - kavady
 Exactly, precisely:
 - eodoeo
+- eodoeanano
 And:
 - ka
 - ""
@@ -154,13 +165,17 @@ And:
 - ""
 Good, positive:
 - "no"
+- bueo
 Time:
 - eana
 - eana
 - do
+- eyeobo
 Speak, day, talk:
 - bo
 - da
+- dabodo
+- dy
 Letter:
 - kododoea
 Flying animal:
@@ -217,6 +232,7 @@ Because of:
 - ba
 - ba
 - boeo
+- boeoda
 Arm:
 - vu
 - bany
@@ -246,6 +262,8 @@ Weather:
 To, targeting:
 - ""
 - dodo
+- ""
+- ""
 Swimming animal:
 - dododonadano
 Noun, object word:
@@ -259,6 +277,7 @@ Able to, can, capable of, possible:
 - boeybo
 Verb, predicate, action word:
 - vaey
+- vaeo
 Warm, hot:
 - vu
 - nu
@@ -284,11 +303,14 @@ Near:
 - kaeo
 Number:
 - nana
+- nunaeo
+- ""
 Surprise:
 - kony
 - eodo
 Book:
 - boby
+- vybo
 Year:
 - naeo
 - eo
@@ -347,17 +369,20 @@ Big:
 - vaeo
 - kaeodoeudo
 - doeodo
+- kododa
 Anger: []
 Far:
 - eo
 - ""
 - vaeo
-Leg: []
+Leg:
+- byeona
 But, however: []
 Head:
 - "no"
 - "no"
 - eonoda
+- kabaea
 Group:
 - ku
 - kodo
@@ -375,6 +400,7 @@ Old:
 - na
 - eaea
 - doeu
+- vyeo
 Posessive (like 'my' or 'yours'):
 - ""
 - "no"
@@ -400,8 +426,10 @@ Breath, inhale, exhale:
 - kony
 - eunoeo
 - eaeododo
+- dodava
 Metal: []
-To the right of: []
+To the right of:
+- dodoeoeodada
 Animal:
 - koeodoeo
 - koeaeuea
@@ -420,11 +448,13 @@ Feminine or feminine-aligned:
 - nava
 - kony
 - "no"
+- vananyno
 To hate:
 - nava
 - kony
 - "no"
 - doeu
+- doda
 Hour:
 - eudoeu
 - doea
@@ -444,6 +474,7 @@ Know, understand:
 - do
 Hear, listen to:
 - kony
+- eokukodo
 Look at, see:
 - kony
 - va
@@ -453,6 +484,7 @@ Generic pronoun (ie., neutral):
 - badobodo
 Sentence:
 - "no"
+- dododo
 New:
 - "no"
 - eudoeudo
@@ -486,3 +518,4 @@ Outside:
 - dodaea
 Often, frequently:
 - voeodanodoeoea
+Soil: []
