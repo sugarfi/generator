@@ -1,2 +1,2 @@
 language = "crystal"
-run = "shards install && install-pkg libyaml-dev && crystal run -p main.cr"
+run = "shards install && install-pkg libyaml-dev && KEMAL_ENV=production crystal run -p main.cr"

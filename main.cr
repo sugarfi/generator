@@ -20,6 +20,11 @@ get "/" do |env|
     send_file env, "public/index.html"
 end
 
+get "/gen.yml" do |env|
+    env.response.content_type = "text/plain"
+    File.read "gen.yml"
+end
+
 get "/api/def" do |env|
     d = defs.sample(1)[0].as_s
     saved[d] ||= [] of String

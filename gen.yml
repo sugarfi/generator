@@ -9,6 +9,7 @@ Below:
 - doda
 - eu
 - dodo
+- bu
 Four, 4:
 - eu
 - ko
@@ -23,11 +24,13 @@ Berry:
 - ea
 - kony
 - ""
+- voeo
 One, 1:
 - ea
 - va
 - do
 - va
+- do
 Person, human:
 - ea
 - kodo
@@ -58,6 +61,7 @@ Fruit from a vine:
 Tree fruit:
 - eobaeuky
 - vododoeaeodo
+- voeobo
 Vegetable:
 - kyvy
 - baka
@@ -69,8 +73,10 @@ Six, 6:
 - eu
 - ea
 - eado
+- ea
 At the same time as, during, while:
 - na
+- nyeoeodo
 Nine, 9:
 - dodavydo
 - nueo
@@ -118,6 +124,7 @@ Shades of green, green:
 - vaeo
 - kony
 - dodo
+- vaeo
 Black, dark colored:
 - bavo
 - bokoeo
@@ -157,10 +164,13 @@ With, together with:
 - ""
 - eunodoko
 - ku
+- eunodoko
+- koda
 Write:
 - byea
 - dy
 - eokododo
+- byey
 Almost, approximately:
 - kyeoeu
 - kyeoeu
@@ -191,9 +201,12 @@ Speak, day, talk:
 - da
 - dabodo
 - dy
+- dovadoko
 Letter:
 - kododoea
 - vaeo
+- vaeo
+- vobodo
 Flying animal:
 - kony
 - eo
@@ -202,6 +215,8 @@ Flying animal:
 - dododovovano
 Cold, cool:
 - vodo
+- kava
+- ko
 Minute:
 - ny
 - nybova
@@ -215,11 +230,14 @@ Water:
 - eo
 - doda
 - doda
+- voda
 Because of:
 - ba
 - ba
 - boeo
 - boeoda
+- doeododa
+- doeaeu
 Arm:
 - vu
 - bany
@@ -227,12 +245,15 @@ Arm:
 - nano
 - kabodaeo
 - bodo
+- vuka
+- vuka
 Incredulous, disbeliving: []
 Adjective, descriptive word:
 - doeaeyvo
 Sad, downcast:
 - eoduey
 - eodoea
+- eodo
 Have to, must:
 - nueoea
 - duva
@@ -268,12 +289,15 @@ Able to, can, capable of, possible:
 Verb, predicate, action word:
 - vaey
 - vaeo
+- vaey
 Warm, hot:
 - vu
 - nu
 - vaeo
 - kony
 - kony
+- vaea
+- eabo
 White, lightly colored:
 - vava
 - kony
@@ -282,11 +306,13 @@ Small:
 - dodo
 - bakueo
 - bakueo
+- bada
 Want to, desire to:
 - vona
 - kueoeo
 - daea
 - doka
+- dano
 Near:
 - noka
 - kony
@@ -299,6 +325,7 @@ Number:
 Surprise:
 - kony
 - eodo
+- eoeoeaea
 - eoeoeaea
 Book:
 - boby
@@ -331,6 +358,8 @@ Hand:
 Month:
 - nono
 - na
+- na
+- nuna
 Disorganized:
 - kony
 - ""
@@ -339,6 +368,7 @@ Move, transport, travel, go:
 - na
 - bo
 - nuda
+- eava
 Walking / quadruped animal:
 - "no"
 - "no"
@@ -355,6 +385,7 @@ Plant:
 - "no"
 - eododo
 - bodoea
+- bododyko
 Word:
 - voeo
 - kony
@@ -372,9 +403,13 @@ Far:
 - eo
 - ""
 - vaeo
+- na
+- davako
 Leg:
 - byeona
-But, however: []
+- "no"
+But, however:
+- do
 Head:
 - "no"
 - "no"
@@ -387,11 +422,13 @@ Group:
 Day:
 - "no"
 - eako
+- eano
 Empty, barren:
 - eo
 - ""
 - doeo
 - vaky
+- kodo
 Old:
 - na
 - na
@@ -399,6 +436,7 @@ Old:
 - doeu
 - vyeo
 - na
+- nanuna
 Posessive (like 'my' or 'yours'):
 - ""
 - "no"
@@ -426,6 +464,7 @@ Breath, inhale, exhale:
 - eunoeo
 - eaeododo
 - dodava
+- ko
 Metal: []
 To the right of:
 - dodoeoeodada
@@ -435,6 +474,7 @@ Animal:
 - koeaeuea
 - koeaeuea
 - koeaeuea
+- bono
 Root:
 - "no"
 - dododo
@@ -442,12 +482,14 @@ Feminine pronoun:
 - eo
 - "no"
 - eova
-Sound, noise: []
+Sound, noise:
+- eado
 Feminine or feminine-aligned:
 - nava
 - kony
 - "no"
 - vananyno
+- vaey
 To hate:
 - nava
 - kony
@@ -460,10 +502,12 @@ Hour:
 Like, similar to:
 - kaea
 - kono
+- dadovyko
 Inside:
 - doeaeydo
 - eudoeu
-Non-binary: []
+Non-binary:
+- nono
 Every:
 - doea
 - do
@@ -471,6 +515,9 @@ Every:
 Know, understand:
 - kony
 - do
+- kona
+- eono
+- kony
 Hear, listen to:
 - kony
 - eokukodo
@@ -478,6 +525,8 @@ Hear, listen to:
 Look at, see:
 - kony
 - va
+- vu
+- vuka
 Generic pronoun (ie., neutral):
 - kony
 - "no"
@@ -485,6 +534,7 @@ Generic pronoun (ie., neutral):
 Sentence:
 - "no"
 - dododo
+- nyny
 New:
 - "no"
 - eudoeudo
@@ -498,6 +548,7 @@ Busy:
 - dododo
 Rock:
 - boeodu
+- baeo
 Read:
 - bonodu
 Air, gas:
@@ -509,12 +560,14 @@ Many:
 To love:
 - dodo
 - dodo
+- vovy
 Fruit:
 - vodo
 To do, as in 'I will do it':
 - daka
 Masculine or masculine-aligned:
 - naeododo
+- vaea
 Outside:
 - dodaea
 Often, frequently:
@@ -523,3 +576,10 @@ Soil: []
 Glyph, syllable, morpheme:
 - eyvabo
 - budoda
+Seperator - group objects or sentences: []
+To the left of: []
+What:
+- kana
+Name: []
+True or false; boolean: []
+Amount: []
